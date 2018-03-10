@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "gyomd:blocks/wheat_stage_7"
+    }
+}
